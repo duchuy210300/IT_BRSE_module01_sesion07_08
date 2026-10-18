@@ -26,18 +26,23 @@
 }
 
 .Header {
+    background-color:#3498db ;
     width:calc(100% - 10px);
     height: calc(20% - 10px);
 }
 .Sidebar {
+    background-color:#2ecc71 ;
     width:calc(30% - 10px);
     height: calc(60% - 10px);
 }
 .Contend {
+background-color:#e74c3c ;
     width:calc(70% - 10px);
     height: calc(60% - 10px);
 }
+
 .Footer {
+    background-color:#9b59b6 ;
      width:calc(100% - 10px);
      height: calc(20% - 10px);
 }
